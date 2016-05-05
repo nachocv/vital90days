@@ -1,0 +1,5 @@
+# ignora todos los archivos del directorio target/
+target/
+# ignora estos ficheros
+.classpath
+.project
